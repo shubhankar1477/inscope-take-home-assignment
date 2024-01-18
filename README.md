@@ -116,7 +116,7 @@ cd scripts
 ```
 4. Unzip data folder
    data folder was too big to commit if you can put data.zip folder from above folder to scripts folder would be great .
-   folder link : [data required to run code]
+   folder link : (https://huggingface.co/datasets/inscopehq/SEC-10K)
 ```sh
 
 unzip data.zip
