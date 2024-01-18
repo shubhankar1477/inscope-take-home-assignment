@@ -116,6 +116,7 @@ cd scripts
 ```
 4. Unzip data folder
 ```sh
+data folder was too big to commit if you can put data.zip folder from above folder to scripts folder would be great . 
 unzip data.zip
 ```
 5. Install the required Python packages using pip
