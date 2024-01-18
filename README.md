@@ -104,7 +104,7 @@ Before you start, make sure you have the following installed:
 
 1. Clone the repository to your local machine.
 ```sh
-git clone https://github.com/shubhankar1477/inscope-takehome-assignment.git
+git clone https://github.com/shubhankar1477/inscope-take-home-assignment.git
 ```
 2. Navigate to the project's root directory.
 ```sh
